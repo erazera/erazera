@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Eduardo Razera
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Eduardo Razera
 ======================================================================================================================================
 
 Computer Engineering Student
@@ -8,7 +8,7 @@ Computer Engineering Student
 * ✉️  You can contact me at [eduardorabr@gmail.com](mailto:eduardorabr@gmail.com)
 * 🧠  I'm learning Laravel and C#
 * ⚡  I am in the begging of my journey in this world of programming, always been a tech enthusiast
-* 💚💛💙 My others passions are: Finances, business and sports
+* 💚  My others passions are: Finances, business and sports
 
 ### Skills
 
