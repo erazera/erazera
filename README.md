@@ -6,7 +6,7 @@ Computer Engineering Student
 
 * 🌍  I'm based in Gramado - Rio Grande do Sul 🇧🇷
 * ✉️  You can contact me at [eduardorabr@gmail.com](mailto:eduardorabr@gmail.com)
-* 🧠  I'm learning Laravel and C#
+* 🧠  I'm learning Laravel and Python
 * ⚡  I am in the begging of my journey in this world of programming, always been a tech enthusiast
 * 💚  My others passions are: Finances, business and sports
 
